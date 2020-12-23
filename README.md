@@ -1,2 +1,3 @@
-# rust-scratch
-A small repo to test Github connectivity etc. and play around with Rust!
+Based on the Rust "Getting Started with Remote Containers" sample from Microsoft.
+
+This is a repo for messing around with Rust.
